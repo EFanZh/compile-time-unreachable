@@ -1,0 +1,4 @@
+[package]
+edition = "2021"
+name = "compiler-checked-unreachable"
+version = "0.1.0"
